@@ -13,5 +13,3 @@ public class GpsApplicationTests {
 	public void contextLoads() {
 	}
 
-}
-
